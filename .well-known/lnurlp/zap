@@ -1,1 +1,1 @@
-
+{"callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/958d98ba-099e-4c9b-8404-02e1ffa72116","maxSendable":100000000000,"minSendable":1000,"metadata":"[[\"text/plain\",\"Pay to Wallet of Satoshi user: jimzap\"],[\"text/identifier\",\"jimzap@walletofsatoshi.com\"]]","commentAllowed":255,"tag":"payRequest","allowsNostr":true,"nostrPubkey":"be1d89794bf92de5dd64c1e60f6a2c70c140abac9932418fee30c5c637fe9479"}
